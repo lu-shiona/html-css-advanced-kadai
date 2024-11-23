@@ -7,7 +7,7 @@ p{
 }
 body {
   max-width: 1080px;
-  margin: 0 auto;
+  margin: 0 auto 0 auto;
   font-family: "Source Sans Pro", "Hiragino Kaku Gohtic", Meiryo, Arial, sans-serif;
 }
 header {
@@ -178,7 +178,7 @@ h3 {
 }
 /* ABOUT US */
 #aboutus {
-  margin: 80px auto80px auto;
+  margin: 80px auto 80px auto;
 }
 /* 3つの組織文化と画像を入れる枠 */
 #aboutus > div {
@@ -675,7 +675,7 @@ h3 {
 /* プロダクト */
 #product {
   margin: 0;
-  padding: 10px 20px 0 20px
+  padding: 10px 20px 0 20px;
 }
 /* 外枠 */
 #product .product-flex {
@@ -743,7 +743,7 @@ h3 {
   left: 0;
 }
 .vision-box > div > h4 {
-  margin:60px 0 0 0;
+  margin: 60px 0 0 0;
 }
 
 /* 会社概要 */
